@@ -1,0 +1,7 @@
+isspace: 13	isalpha: 52
+isdigit: 17
+isxdigit: 27
+isupper: 0
+islower: 52
+isalnum: 69
+iscntrl: 7	ispunct: 18	isprint: 93	isgraph: 87	

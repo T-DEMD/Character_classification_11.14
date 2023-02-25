@@ -1,0 +1,11 @@
+isspace: 8
+isalpha: 25
+isdigit: 9
+isxdigit: 13
+isupper: 17
+islower: 8
+isalnum: 34
+iscntrl: 2
+ispunct: 15
+isprint: 55
+isgraph: 49
